@@ -2,4 +2,4 @@
 Basic code related to computer vision
 
 
-Contour file contains a basic code explaining implementation image segmentation using contours 
+Contours file contains a basic python code explaining implementation image segmentation using contours 
